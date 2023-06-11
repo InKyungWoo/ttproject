@@ -59,6 +59,8 @@
 
 저희는 SNS 앱 <img src="https://img.shields.io/badge/tiktok-000000?style=flat&logo=tiktok&logoColor=white"/>에서의 *선정적이거나, 폭력적인 영상들을 필터링 하는 모델* 을 주제로 프로젝트를 진행하였습니다.
 
+<br>
+
 ## 🧑‍🤝‍🧑 팀원
 7조 팀원들을 소개합니다( ˃ᴗ˂ )
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
