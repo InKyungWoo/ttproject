@@ -113,6 +113,8 @@
   </tr>
 </table>
 
+<br>
+
 ## 🧰 툴
 <table>
   <tr>
@@ -176,6 +178,8 @@
   
 #### [Notion 페이지 링크](https://spiral-moose-c33.notion.site/7e97e0c8815d4acf815ffa0c885348a4?pvs=4) : 전체 프로젝트 R&R 및 회의록 관리 페이지입니다.
 #### [GoogleDrive 링크](https://drive.google.com/drive/folders/1BYTg3gTPLE2lTy0RrNSjG9CHcRoApqJN?usp=drive_link) : 모델의 크기가 커 깃허브에 업로드가 불가하기에 설계한 모델은 깃허브가 아닌 드라이브에 업로드하였습니다. 
+
+<br>
 
 ## 📝 모델 구조
 ![제목을 입력해주세요_-004](https://github.com/jongsulteam7/ttproject/assets/130124454/9b82aee0-54e2-48ce-98b4-9aad679f68a9)
