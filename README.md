@@ -132,7 +132,7 @@
     <br />
     </td>
     <td align='center'>
-    <a href='https://spiral-moose-c33.notion.site/7e97e0c8815d4acf815ffa0c885348a4?pvs=4'>
+    <a href='https://inkyungwoo.notion.site/AI-Software-7e97e0c8815d4acf815ffa0c885348a4'>
     <img src='https://github.com/selfrescue/selfrescue/assets/130124454/189b7c67-88a0-49c6-9682-1aecef0533e2' width="150px;" alt="Notion"/>
     <br />
     <sub>
